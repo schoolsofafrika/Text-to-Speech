@@ -1,0 +1,6 @@
+{
+  "name": "Text to Speech & Read Aloud",
+  "description": "Natural text-to-speech reader with real-time word highlighting, voice controls, and AI voice synthesis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
